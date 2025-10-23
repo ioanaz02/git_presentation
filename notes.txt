@@ -1,0 +1,21 @@
+These are some initial notes.
+
+You can use this file as a scratchpad during the labs.  Add and remove text, track your changes with Git, and see how the diffs look.
+
+- Remember to configure your Git username and email:
+  ```bash
+  git config --global user.name "Your Name"
+  git config --global user.email "you@example.com"
+  ```
+
+- To stage this file for commit, run:
+  ```bash
+  git add notes.txt
+  ```
+
+- To see what has changed since your last commit, run:
+  ```bash
+  git diff
+  ```
+
+Practice editing this file and watching how Git tracks the changes!

@@ -1,0 +1,16 @@
+# Ignore editor swap files and logs
+*~
+*.swp
+
+# Ignore compiled Python or Java bytecode
+*.pyc
+*.class
+
+# Ignore coverage and build directories
+coverage/
+build/
+dist/
+
+# Ignore temporary or environment files
+.env
+.DS_Store
