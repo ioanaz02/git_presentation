@@ -19,3 +19,6 @@ You can use this file as a scratchpad during the labs.  Add and remove text, tra
   ```
 
 Practice editing this file and watching how Git tracks the changes!
+
+
+These are major changes!
